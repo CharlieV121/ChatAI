@@ -1,0 +1,73 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chat AI</title>
+  <link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}">
+  <link rel="stylesheet" href="{% static 'css/font-awesome.css' %}">
+  <link rel="stylesheet" type="text/css" href="{% static 'css/chat.css' %}">
+</head>
+
+<body>
+  <header class="container-fluid">
+    <div>
+      <label for="">Chat AI de Armas</label>
+    </div>
+  </header>
+  <main>
+    <!--########################################### CHAT START ######################################-->
+    <div class="chat">
+      <div class="options">
+          <form action="" method="POST">
+            <button name="close_session" class="btn btn-secondary" type="submit">Cerrar Sesión</button>
+          </form>
+      </div>    
+      <div class="historial">
+        <ul class="historial-list">
+            {% if historial %}
+                {% for item in historial %}
+            <li class="historial-list-item" id={{item.id}}>
+                <div class="item-container">
+                    <button id="button-clear-id" class="trash-button" title="borrar"> <i class="fa fa-trash"></i> </button>
+                    <div class="message-container">
+                        <div class="image"><img width="40px" height="40px" src="../static/img/user.png"/></div>
+                        <div class="content"><pre class="message">{{item.request}}</pre></div>
+                    </div>
+                </div>
+                <div class="item-container">
+                    <div class="trash-button"></div>
+                    <div class="message-container">
+                        <div class="image"><img width="40px" height="40px" src="../static/img/system.jpg"/></div>
+                        <div class="content"><pre class="message">{{item.response}}</pre></div>
+                    </div>
+                </div>
+            </li>
+                    
+                {% endfor %}
+            {% endif %}>
+        </ul>
+        <div class="spinner-container mt-4">
+            <div class="" hidden id="spinner1">
+                <div class="spinner-border" role="status"></div>
+            </div>
+        </div>
+      </div>
+      <div class="consulta">
+        <textarea placeholder="Escribe tu consulta..." class="form-control" id="textarea-id" rows="1"></textarea>
+        <button id="button-send-id" class="btn btn-secondary" type="submit">Enviar</button>
+      </div>
+    </div>
+    <!--############################################ END CHAT ###################################-->
+  </main>
+  <script src="{% static 'js/popper.min.js' %}"></script>
+  <script src="{% static 'js/jquery.min.js' %}"></script>
+  <script src="{% static 'js/bootstrap.min.js' %}"></script>
+  <script src="{% static 'js/jquery.autobox.min.js' %}"></script>
+  <script src="{% static 'js/main.js' %}"></script>
+</body>
+
+</html>
