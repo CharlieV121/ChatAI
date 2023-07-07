@@ -1,17 +1,14 @@
+## Inicio
 
-## Despues de clonar el proyecto
-1.python -m venv myenv
+python -m venv myenv
 
-2.myenv\Scripts\activate              ( deactivate )
+myenv\Scripts\activate
 
-3.pip install -r requirements.txt
+pip install -r requirements.txt
 
+python index.py
 
-## Run app:
-
-4.python index.py
-
-## Otros
+## Requirements
 pip freeze > requirements.txt
 
 ## Django
