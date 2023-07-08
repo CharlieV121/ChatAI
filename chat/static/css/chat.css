@@ -28,8 +28,9 @@ header{
 .options{
     width: 100%;
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-between;
     padding:0px var(--width-main);
+    padding-left: 50px;
     margin-bottom: 20px;
 }
 
@@ -62,6 +63,10 @@ header{
 .historial-list-item{
     margin-bottom: 20px;
     padding-right:20px;
+}
+.trash-button-container{
+    color:#fff;
+    font-size: 1rem;
 }
 .trash-button{
     border-radius: 15px;
@@ -154,6 +159,8 @@ button.trash-button:hover{
 textarea{
     margin-right: 20px;
 }
+
+
 
 @media (max-width: 900px) {
     .chat__btn-send{

@@ -22,6 +22,10 @@
     <!--########################################### CHAT START ######################################-->
     <div class="chat">
       <div class="options">
+          <div class="trash-button-container">
+            <button id="button-clear-id" class="trash-button" title="borrar"> <i class="fa fa-trash"></i> </button>
+            <label >Borrar Conversaciones</label>
+          </div>
           <form action="" method="POST">
             <button name="close_session" class="btn btn-secondary" type="submit">Cerrar Sesión</button>
           </form>
@@ -32,14 +36,12 @@
                 {% for item in historial %}
             <li class="historial-list-item" id={{item.id}}>
                 <div class="item-container">
-                    <button id="button-clear-id" class="trash-button" title="borrar"> <i class="fa fa-trash"></i> </button>
                     <div class="message-container">
                         <div class="image"><img width="40px" height="40px" src="../static/img/user.png"/></div>
                         <div class="content"><pre class="message">{{item.request}}</pre></div>
                     </div>
                 </div>
                 <div class="item-container">
-                    <div class="trash-button"></div>
                     <div class="message-container">
                         <div class="image"><img width="40px" height="40px" src="../static/img/system.jpg"/></div>
                         <div class="content"><pre class="message">{{item.response}}</pre></div>

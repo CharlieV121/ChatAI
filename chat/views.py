@@ -4,7 +4,7 @@ from django.shortcuts import get_object_or_404, redirect, render
 from django.http import HttpResponse, HttpResponseBadRequest, JsonResponse
 from django.contrib.auth import logout
 
-
+from chat.main import Chat
  
 def home(request):
     if request.method == 'POST':
@@ -16,9 +16,9 @@ def home(request):
     else:
         if request.user.is_authenticated:
             historial=[
-                {'id':1,'request':"Hola", 'response':"Hola, soy un chatbot"},
-                {'id':2,'request':"Cuanto es -1*2300?", 'response':"-2300"},
-                {'id':3,'request':"Eres real?", 'response':"Sí"},
+                {'id':'1','request':"Hola", 'response':"Hola, soy un chatbot"},
+                {'id':'2','request':"Cuanto es -1*2300?", 'response':"-2300"},
+                {'id':'3','request':"Eres real?", 'response':"Sí"},
             ]
             return render(request, 'chat.html', {'historial': historial})
         
@@ -30,8 +30,6 @@ def delete(request):
         ids = json.loads(data)
         Chat.get_instance().delete_conversation(user=request.user , ids=ids)
         return JsonResponse({"result":"ok"})    
-"""     else:
-        return HttpResponseBadRequest('Invalid request method') """
 
 def message(request):
     if request.method == "POST":

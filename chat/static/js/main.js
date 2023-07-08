@@ -3,10 +3,30 @@ $('#textarea-id').trigger('focus');
 $('#button-send-id').on('click',sendMessage);
 
 
-$('.trash-button').on('click', (e)=>{
-    console.log(e)
-    if(e.target.tagName==="I") $(e.target).parent().parent().parent().remove()
-    else $(e.target).parent().parent().remove()
+$('#button-clear-id').on('click', (e)=>{
+    list_msg = []
+    $('.historial-list-item').each((i,e)=>{
+        console.log(i)
+        list_msg.push($(e).attr("id"))
+    })
+    console.log(list_msg)
+    if(list_msg.length > 0){
+        $.ajax({
+            url: '/delete/',
+            type: 'POST',
+            data: { data: JSON.stringify(list_msg)},
+            success: function(res) {
+                if(res.result == "ok"){
+                    alert("Historial borrado correctamente")
+                }
+                $(".historial-list").html('')
+            },
+            error: function(xhr, status, error) {
+                $(".historial-list").html('')
+            }, 
+            timeout: 60000 // 20 segundos de espera
+        });
+    }
 })
 
 function sendMessage(){
@@ -31,7 +51,6 @@ function addRequest(m){
     return (`
     <li class="historial-list-item">
         <div class="item-container">
-            <button id="button-clear-id" class="trash-button" title="borrar"> <i class="fa fa-trash"></i> </button>
             <div class="message-container">
                 <div class="image"><img width="40px" height="40px" src="../static/img/user.png"/></div>
                 <div class="content"><pre class="message">${m}</pre></div>
@@ -43,7 +62,6 @@ function addRequest(m){
 function addResponse(m){
     return (`
         <div class="item-container">
-            <div class="trash-button"></div>
             <div class="message-container">
                 <div class="image"><img width="40px" height="40px" src="../static/img/system.jpg"/></div>
                 <div class="content"><pre class="message">${m}</pre></div>
@@ -65,9 +83,5 @@ function scrollToTop(){
     historial.animate({
         scrollTop:historial[0].scrollHeight
     }, 500) 
-}
-
-function disableButton(id,disable){
-    $(`#${id}`).prop("disabled",disable)
 }
 
