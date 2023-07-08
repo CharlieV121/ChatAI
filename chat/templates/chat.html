@@ -31,31 +31,29 @@
           </form>
       </div>    
       <div class="historial">
-        <ul class="historial-list">
-            {% if historial %}
-                {% for item in historial %}
-            <li class="historial-list-item" id={{item.id}}>
-                <div class="item-container">
-                    <div class="message-container">
-                        <div class="image"><img width="40px" height="40px" src="../static/img/user.png"/></div>
-                        <div class="content"><pre class="message">{{item.request}}</pre></div>
-                    </div>
-                </div>
-                <div class="item-container">
-                    <div class="message-container">
-                        <div class="image"><img width="40px" height="40px" src="../static/img/system.jpg"/></div>
-                        <div class="content"><pre class="message">{{item.response}}</pre></div>
-                    </div>
-                </div>
-            </li>
-                    
-                {% endfor %}
-            {% endif %}>
-        </ul>
-        <div class="spinner-container mt-4">
-            <div class="" hidden id="spinner1">
-                <div class="spinner-border" role="status"></div>
-            </div>
+        <div class="historial-list-container">
+          <ul class="historial-list">
+              {% if historial %}
+                  {% for item in historial %}
+              <li class="historial-list-item" id={{item.id}}>
+                  <div class="item-container">
+                      <div class="message-container">
+                          <div class="image"><img width="40px" height="40px" src="../static/img/user.png"/></div>
+                          <div class="content"><pre class="message">{{item.request}}</pre></div>
+                      </div>
+                  </div>
+                  <div class="item-container">
+                      <div class="message-container">
+                          <div class="image"><img width="40px" height="40px" src="../static/img/system.jpg"/></div>
+                          <div class="content"><pre class="message">{{item.response}}</pre></div>
+                      </div>
+                  </div>
+              </li>
+                      
+                  {% endfor %}
+              {% endif %}>
+              
+          </ul>
         </div>
       </div>
       <div class="consulta">

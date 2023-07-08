@@ -1,0 +1,1029 @@
+El arma tipo CARTUCHO 9 MM. tuvo:
+	-Una Cantidad retenida de 0 unidades, en enero del 2019
+	-Una Cantidad retenida de 0 unidades, en febrero del 2019
+------------------------------------------------------------
+
+El arma tipo REV�LVER tuvo:
+	-Una Cantidad retenida de 3 unidades, en febrero del 2019
+------------------------------------------------------------
+
+El arma tipo CAPSULAS PARA RIFLES tuvo:
+	-Una Cantidad retenida de 9 unidades, en febrero del 2020
+	-Una Cantidad retenida de 0 unidades, en marzo del 2020
+	-Una Cantidad retenida de 0 unidades, en abril del 2020
+	-Una Cantidad retenida de 0 unidades, en mayo del 2020
+	-Una Cantidad retenida de 0 unidades, en junio del 2020
+	-Una Cantidad retenida de 0 unidades, en julio del 2020
+	-Una Cantidad retenida de 0 unidades, en agosto del 2020
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2020
+	-Una Cantidad retenida de 0 unidades, en octubre del 2020
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2020
+	-Una Cantidad retenida de 0 unidades, en diciembre del 2020
+	-Una Cantidad retenida de 0 unidades, en enero del 2021
+	-Una Cantidad retenida de 0 unidades, en febrero del 2021
+	-Una Cantidad retenida de 0 unidades, en marzo del 2021
+	-Una Cantidad retenida de 0 unidades, en abril del 2021
+	-Una Cantidad retenida de 0 unidades, en mayo del 2021
+	-Una Cantidad retenida de 0 unidades, en junio del 2021
+	-Una Cantidad retenida de 0 unidades, en julio del 2021
+	-Una Cantidad retenida de 0 unidades, en agosto del 2021
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2021
+	-Una Cantidad retenida de 0 unidades, en octubre del 2021
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2021
+	-Una Cantidad retenida de 0 unidades, en diciembre del 2021
+	-Una Cantidad retenida de 0 unidades, en enero del 2022
+	-Una Cantidad retenida de 0 unidades, en febrero del 2022
+	-Una Cantidad retenida de 0 unidades, en marzo del 2022
+	-Una Cantidad retenida de 0 unidades, en abril del 2022
+	-Una Cantidad retenida de 0 unidades, en mayo del 2022
+	-Una Cantidad retenida de 0 unidades, en junio del 2022
+	-Una Cantidad retenida de 0 unidades, en julio del 2022
+	-Una Cantidad retenida de 0 unidades, en agosto del 2022
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2022
+	-Una Cantidad retenida de 0 unidades, en octubre del 2022
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2022
+	-Una Cantidad retenida de 0 unidades, en diciembre del 2022
+	-Una Cantidad retenida de 0 unidades, en Enero del 2023
+	-Una Cantidad retenida de 0 unidades, en Febrero del 2023
+	-Una Cantidad retenida de 0 unidades, en Marzo del 2023
+------------------------------------------------------------
+
+El arma tipo GORRAS MILITAR tuvo:
+	-Una Cantidad retenida de 3 unidades, en septiembre del 2018
+	-Una Cantidad retenida de 0 unidades, en enero del 2019
+	-Una Cantidad retenida de 0 unidades, en febrero del 2019
+------------------------------------------------------------
+
+El arma tipo CARGADOR FUSIL M-16 tuvo:
+	-Una Cantidad retenida de 0 unidades, en abril del 2022
+	-Una Cantidad retenida de 0 unidades, en mayo del 2022
+	-Una Cantidad retenida de 1 unidades, en junio del 2022
+	-Una Cantidad retenida de 0 unidades, en julio del 2022
+	-Una Cantidad retenida de 0 unidades, en agosto del 2022
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2022
+	-Una Cantidad retenida de 0 unidades, en octubre del 2022
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2022
+	-Una Cantidad retenida de 0 unidades, en diciembre del 2022
+	-Una Cantidad retenida de 0 unidades, en Enero del 2023
+	-Una Cantidad retenida de 0 unidades, en Febrero del 2023
+	-Una Cantidad retenida de 0 unidades, en Marzo del 2023
+------------------------------------------------------------
+
+El arma tipo ESCOPETAS tuvo:
+	-Una Cantidad retenida de 2 unidades, en octubre del 2019
+	-Una Cantidad retenida de 3 unidades, en noviembre del 2019
+	-Una Cantidad retenida de 3 unidades, en diciembre del 2019
+	-Una Cantidad retenida de 1 unidades, en enero del 2020
+	-Una Cantidad retenida de 2 unidades, en febrero del 2020
+	-Una Cantidad retenida de 8 unidades, en marzo del 2020
+	-Una Cantidad retenida de 1 unidades, en abril del 2020
+	-Una Cantidad retenida de 0 unidades, en mayo del 2020
+	-Una Cantidad retenida de 1 unidades, en junio del 2020
+	-Una Cantidad retenida de 2 unidades, en julio del 2020
+	-Una Cantidad retenida de 0 unidades, en agosto del 2020
+	-Una Cantidad retenida de 2 unidades, en septiembre del 2020
+	-Una Cantidad retenida de 1 unidades, en octubre del 2020
+	-Una Cantidad retenida de 1 unidades, en noviembre del 2020
+	-Una Cantidad retenida de 0 unidades, en diciembre del 2020
+	-Una Cantidad retenida de 0 unidades, en enero del 2021
+	-Una Cantidad retenida de 1 unidades, en febrero del 2021
+	-Una Cantidad retenida de 1 unidades, en marzo del 2021
+	-Una Cantidad retenida de 1 unidades, en abril del 2021
+	-Una Cantidad retenida de 2 unidades, en mayo del 2021
+	-Una Cantidad retenida de 2 unidades, en junio del 2021
+	-Una Cantidad retenida de 1 unidades, en julio del 2021
+	-Una Cantidad retenida de 0 unidades, en agosto del 2021
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2021
+	-Una Cantidad retenida de 0 unidades, en octubre del 2021
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2021
+	-Una Cantidad retenida de 1 unidades, en diciembre del 2021
+	-Una Cantidad retenida de 0 unidades, en enero del 2022
+	-Una Cantidad retenida de 0 unidades, en febrero del 2022
+	-Una Cantidad retenida de 0 unidades, en marzo del 2022
+	-Una Cantidad retenida de 1 unidades, en abril del 2022
+	-Una Cantidad retenida de 1 unidades, en mayo del 2022
+	-Una Cantidad retenida de 0 unidades, en junio del 2022
+	-Una Cantidad retenida de 1 unidades, en julio del 2022
+	-Una Cantidad retenida de 1 unidades, en agosto del 2022
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2022
+	-Una Cantidad retenida de 0 unidades, en octubre del 2022
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2022
+	-Una Cantidad retenida de 1 unidades, en diciembre del 2022
+	-Una Cantidad retenida de 0 unidades, en Enero del 2023
+	-Una Cantidad retenida de 0 unidades, en Febrero del 2023
+	-Una Cantidad retenida de 0 unidades, en Marzo del 2023
+------------------------------------------------------------
+
+El arma tipo RIFLE DE AIRES tuvo:
+	-Una Cantidad retenida de 0 unidades, en octubre del 2019
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2019
+	-Una Cantidad retenida de 0 unidades, en diciembre del 2019
+	-Una Cantidad retenida de 0 unidades, en enero del 2020
+	-Una Cantidad retenida de 1 unidades, en febrero del 2020
+	-Una Cantidad retenida de 0 unidades, en marzo del 2020
+	-Una Cantidad retenida de 0 unidades, en abril del 2020
+	-Una Cantidad retenida de 0 unidades, en mayo del 2020
+	-Una Cantidad retenida de 0 unidades, en junio del 2020
+	-Una Cantidad retenida de 0 unidades, en julio del 2020
+	-Una Cantidad retenida de 0 unidades, en agosto del 2020
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2020
+	-Una Cantidad retenida de 0 unidades, en octubre del 2020
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2020
+	-Una Cantidad retenida de 0 unidades, en diciembre del 2020
+	-Una Cantidad retenida de 0 unidades, en enero del 2021
+	-Una Cantidad retenida de 0 unidades, en febrero del 2021
+	-Una Cantidad retenida de 0 unidades, en marzo del 2021
+	-Una Cantidad retenida de 0 unidades, en abril del 2021
+	-Una Cantidad retenida de 0 unidades, en mayo del 2021
+	-Una Cantidad retenida de 0 unidades, en junio del 2021
+	-Una Cantidad retenida de 0 unidades, en julio del 2021
+	-Una Cantidad retenida de 0 unidades, en agosto del 2021
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2021
+	-Una Cantidad retenida de 0 unidades, en octubre del 2021
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2021
+	-Una Cantidad retenida de 0 unidades, en diciembre del 2021
+	-Una Cantidad retenida de 0 unidades, en enero del 2022
+	-Una Cantidad retenida de 0 unidades, en febrero del 2022
+	-Una Cantidad retenida de 0 unidades, en marzo del 2022
+	-Una Cantidad retenida de 0 unidades, en abril del 2022
+	-Una Cantidad retenida de 0 unidades, en mayo del 2022
+	-Una Cantidad retenida de 0 unidades, en junio del 2022
+	-Una Cantidad retenida de 0 unidades, en julio del 2022
+	-Una Cantidad retenida de 0 unidades, en agosto del 2022
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2022
+	-Una Cantidad retenida de 0 unidades, en octubre del 2022
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2022
+	-Una Cantidad retenida de 0 unidades, en diciembre del 2022
+	-Una Cantidad retenida de 0 unidades, en Enero del 2023
+	-Una Cantidad retenida de 0 unidades, en Febrero del 2023
+	-Una Cantidad retenida de 0 unidades, en Marzo del 2023
+------------------------------------------------------------
+
+El arma tipo PISTOLA FAB CACERA (CHILENA) tuvo:
+	-Una Cantidad retenida de 1 unidades, en octubre del 2019
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2019
+	-Una Cantidad retenida de 2 unidades, en diciembre del 2019
+	-Una Cantidad retenida de 2 unidades, en enero del 2020
+	-Una Cantidad retenida de 1 unidades, en febrero del 2020
+	-Una Cantidad retenida de 0 unidades, en marzo del 2020
+	-Una Cantidad retenida de 0 unidades, en abril del 2020
+	-Una Cantidad retenida de 2 unidades, en mayo del 2020
+	-Una Cantidad retenida de 2 unidades, en junio del 2020
+	-Una Cantidad retenida de 0 unidades, en julio del 2020
+	-Una Cantidad retenida de 2 unidades, en agosto del 2020
+	-Una Cantidad retenida de 1 unidades, en septiembre del 2020
+	-Una Cantidad retenida de 1 unidades, en octubre del 2020
+	-Una Cantidad retenida de 2 unidades, en noviembre del 2020
+	-Una Cantidad retenida de 1 unidades, en diciembre del 2020
+	-Una Cantidad retenida de 0 unidades, en enero del 2021
+	-Una Cantidad retenida de 0 unidades, en febrero del 2021
+	-Una Cantidad retenida de 0 unidades, en marzo del 2021
+	-Una Cantidad retenida de 0 unidades, en abril del 2021
+	-Una Cantidad retenida de 1 unidades, en mayo del 2021
+	-Una Cantidad retenida de 0 unidades, en junio del 2021
+	-Una Cantidad retenida de 0 unidades, en julio del 2021
+	-Una Cantidad retenida de 0 unidades, en agosto del 2021
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2021
+	-Una Cantidad retenida de 1 unidades, en octubre del 2021
+	-Una Cantidad retenida de 1 unidades, en noviembre del 2021
+	-Una Cantidad retenida de 2 unidades, en diciembre del 2021
+	-Una Cantidad retenida de 1 unidades, en enero del 2022
+	-Una Cantidad retenida de 0 unidades, en febrero del 2022
+	-Una Cantidad retenida de 0 unidades, en marzo del 2022
+	-Una Cantidad retenida de 1 unidades, en abril del 2022
+	-Una Cantidad retenida de 0 unidades, en mayo del 2022
+	-Una Cantidad retenida de 0 unidades, en junio del 2022
+	-Una Cantidad retenida de 1 unidades, en julio del 2022
+	-Una Cantidad retenida de 1 unidades, en agosto del 2022
+	-Una Cantidad retenida de 1 unidades, en septiembre del 2022
+	-Una Cantidad retenida de 1 unidades, en octubre del 2022
+	-Una Cantidad retenida de 1 unidades, en noviembre del 2022
+	-Una Cantidad retenida de 0 unidades, en diciembre del 2022
+	-Una Cantidad retenida de 2 unidades, en Enero del 2023
+	-Una Cantidad retenida de 0 unidades, en Febrero del 2023
+	-Una Cantidad retenida de 0 unidades, en Marzo del 2023
+------------------------------------------------------------
+
+El arma tipo FUSIL M-16 tuvo:
+	-Una Cantidad retenida de 0 unidades, en abril del 2018
+	-Una Cantidad retenida de 0 unidades, en mayo del 2018
+	-Una Cantidad retenida de 0 unidades, en junio del 2018
+	-Una Cantidad retenida de 0 unidades, en julio del 2018
+	-Una Cantidad retenida de 0 unidades, en agosto del 2018
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2018
+	-Una Cantidad retenida de 0 unidades, en octubre  del 2018
+	-Una Cantidad retenida de 0 unidades, en noviembre  del 2018
+	-Una Cantidad retenida de 0 unidades, en diciembre  del 2018
+	-Una Cantidad retenida de 1 unidades, en enero del 2019
+	-Una Cantidad retenida de 0 unidades, en febrero del 2019
+	-Una Cantidad retenida de 1 unidades, en marzo del 2019
+	-Una Cantidad retenida de 0 unidades, en abril del 2019
+	-Una Cantidad retenida de 0 unidades, en mayo del 2019
+	-Una Cantidad retenida de 0 unidades, en junio del 2019
+	-Una Cantidad retenida de 6 unidades, en julio del 2019
+	-Una Cantidad retenida de 0 unidades, en agosto del 2019
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2019
+	-Una Cantidad retenida de 1 unidades, en abril del 2022
+	-Una Cantidad retenida de 0 unidades, en mayo del 2022
+	-Una Cantidad retenida de 0 unidades, en junio del 2022
+	-Una Cantidad retenida de 0 unidades, en julio del 2022
+	-Una Cantidad retenida de 0 unidades, en agosto del 2022
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2022
+	-Una Cantidad retenida de 0 unidades, en octubre del 2022
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2022
+	-Una Cantidad retenida de 0 unidades, en diciembre del 2022
+	-Una Cantidad retenida de 0 unidades, en Enero del 2023
+	-Una Cantidad retenida de 0 unidades, en Febrero del 2023
+	-Una Cantidad retenida de 0 unidades, en Marzo del 2023
+------------------------------------------------------------
+
+El arma tipo CAPSULAS PARA 9 MM tuvo:
+	-Una Cantidad retenida de 0 unidades, en octubre del 2020
+	-Una Cantidad retenida de 2 unidades, en noviembre del 2020
+	-Una Cantidad retenida de 5 unidades, en diciembre del 2020
+	-Una Cantidad retenida de 56 unidades, en enero del 2021
+	-Una Cantidad retenida de 0 unidades, en febrero del 2021
+	-Una Cantidad retenida de 0 unidades, en marzo del 2021
+	-Una Cantidad retenida de 17 unidades, en abril del 2021
+	-Una Cantidad retenida de 0 unidades, en mayo del 2021
+	-Una Cantidad retenida de 0 unidades, en junio del 2021
+	-Una Cantidad retenida de 0 unidades, en julio del 2021
+	-Una Cantidad retenida de 0 unidades, en agosto del 2021
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2021
+	-Una Cantidad retenida de 6 unidades, en octubre del 2021
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2021
+	-Una Cantidad retenida de 0 unidades, en diciembre del 2021
+	-Una Cantidad retenida de 0 unidades, en enero del 2022
+	-Una Cantidad retenida de 0 unidades, en febrero del 2022
+	-Una Cantidad retenida de 157 unidades, en marzo del 2022
+	-Una Cantidad retenida de 1 unidades, en abril del 2022
+	-Una Cantidad retenida de 0 unidades, en mayo del 2022
+	-Una Cantidad retenida de 0 unidades, en junio del 2022
+	-Una Cantidad retenida de 86 unidades, en julio del 2022
+	-Una Cantidad retenida de 0 unidades, en agosto del 2022
+	-Una Cantidad retenida de 32 unidades, en septiembre del 2022
+	-Una Cantidad retenida de 0 unidades, en octubre del 2022
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2022
+	-Una Cantidad retenida de 0 unidades, en diciembre del 2022
+	-Una Cantidad retenida de 0 unidades, en Enero del 2023
+	-Una Cantidad retenida de 0 unidades, en Febrero del 2023
+	-Una Cantidad retenida de 0 unidades, en Marzo del 2023
+------------------------------------------------------------
+
+El arma tipo CARTUCHO 9 MM tuvo:
+	-Una Cantidad retenida de 0 unidades, en abril del 2018
+	-Una Cantidad retenida de 1 unidades, en mayo del 2018
+	-Una Cantidad retenida de 0 unidades, en junio del 2018
+	-Una Cantidad retenida de 0 unidades, en julio del 2018
+	-Una Cantidad retenida de 0 unidades, en agosto del 2018
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2018
+	-Una Cantidad retenida de 0 unidades, en octubre  del 2018
+	-Una Cantidad retenida de 0 unidades, en noviembre  del 2018
+	-Una Cantidad retenida de 0 unidades, en diciembre  del 2018
+	-Una Cantidad retenida de 0 unidades, en marzo del 2019
+	-Una Cantidad retenida de 0 unidades, en abril del 2019
+	-Una Cantidad retenida de 0 unidades, en mayo del 2019
+	-Una Cantidad retenida de 0 unidades, en junio del 2019
+	-Una Cantidad retenida de 0 unidades, en julio del 2019
+	-Una Cantidad retenida de 0 unidades, en agosto del 2019
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2019
+------------------------------------------------------------
+
+El arma tipo CAPSULAS PARA PISTOLA tuvo:
+	-Una Cantidad retenida de 3 unidades, en enero del 2019
+	-Una Cantidad retenida de 13 unidades, en febrero del 2019
+	-Una Cantidad retenida de 5 unidades, en octubre del 2019
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2019
+	-Una Cantidad retenida de 0 unidades, en diciembre del 2019
+	-Una Cantidad retenida de 83 unidades, en enero del 2020
+	-Una Cantidad retenida de 144 unidades, en febrero del 2020
+	-Una Cantidad retenida de 41 unidades, en marzo del 2020
+	-Una Cantidad retenida de 0 unidades, en abril del 2020
+	-Una Cantidad retenida de 41 unidades, en mayo del 2020
+	-Una Cantidad retenida de 0 unidades, en junio del 2020
+	-Una Cantidad retenida de 0 unidades, en julio del 2020
+	-Una Cantidad retenida de 0 unidades, en agosto del 2020
+	-Una Cantidad retenida de 8 unidades, en septiembre del 2020
+	-Una Cantidad retenida de 13 unidades, en octubre del 2020
+	-Una Cantidad retenida de 26 unidades, en noviembre del 2020
+	-Una Cantidad retenida de 3 unidades, en diciembre del 2020
+	-Una Cantidad retenida de 5 unidades, en enero del 2021
+	-Una Cantidad retenida de 0 unidades, en febrero del 2021
+	-Una Cantidad retenida de 5 unidades, en marzo del 2021
+	-Una Cantidad retenida de 0 unidades, en abril del 2021
+	-Una Cantidad retenida de 0 unidades, en mayo del 2021
+	-Una Cantidad retenida de 7 unidades, en junio del 2021
+	-Una Cantidad retenida de 0 unidades, en julio del 2021
+	-Una Cantidad retenida de 0 unidades, en agosto del 2021
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2021
+	-Una Cantidad retenida de 0 unidades, en octubre del 2021
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2021
+	-Una Cantidad retenida de 7 unidades, en diciembre del 2021
+	-Una Cantidad retenida de 0 unidades, en enero del 2022
+	-Una Cantidad retenida de 0 unidades, en febrero del 2022
+	-Una Cantidad retenida de 4 unidades, en marzo del 2022
+	-Una Cantidad retenida de 0 unidades, en abril del 2022
+	-Una Cantidad retenida de 1 unidades, en mayo del 2022
+	-Una Cantidad retenida de 0 unidades, en junio del 2022
+	-Una Cantidad retenida de 0 unidades, en julio del 2022
+	-Una Cantidad retenida de 4 unidades, en agosto del 2022
+	-Una Cantidad retenida de 17 unidades, en septiembre del 2022
+	-Una Cantidad retenida de 0 unidades, en octubre del 2022
+	-Una Cantidad retenida de 40 unidades, en noviembre del 2022
+	-Una Cantidad retenida de 78 unidades, en diciembre del 2022
+	-Una Cantidad retenida de 0 unidades, en Enero del 2023
+	-Una Cantidad retenida de 0 unidades, en Febrero del 2023
+	-Una Cantidad retenida de 4 unidades, en Marzo del 2023
+------------------------------------------------------------
+
+El arma tipo PERDIGONES tuvo:
+	-Una Cantidad retenida de 3000 unidades, en abril del 2018
+	-Una Cantidad retenida de 0 unidades, en mayo del 2018
+	-Una Cantidad retenida de 0 unidades, en junio del 2018
+	-Una Cantidad retenida de 0 unidades, en julio del 2018
+	-Una Cantidad retenida de 0 unidades, en agosto del 2018
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2018
+	-Una Cantidad retenida de 0 unidades, en octubre  del 2018
+	-Una Cantidad retenida de 0 unidades, en noviembre  del 2018
+	-Una Cantidad retenida de 0 unidades, en diciembre  del 2018
+	-Una Cantidad retenida de 0 unidades, en marzo del 2019
+	-Una Cantidad retenida de 0 unidades, en abril del 2019
+	-Una Cantidad retenida de 0 unidades, en mayo del 2019
+	-Una Cantidad retenida de 0 unidades, en junio del 2019
+	-Una Cantidad retenida de 0 unidades, en julio del 2019
+	-Una Cantidad retenida de 0 unidades, en agosto del 2019
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2019
+------------------------------------------------------------
+
+El arma tipo PISTOLAS tuvo:
+	-Una Cantidad retenida de 1 unidades, en abril del 2018
+	-Una Cantidad retenida de 0 unidades, en mayo del 2018
+	-Una Cantidad retenida de 3 unidades, en junio del 2018
+	-Una Cantidad retenida de 3 unidades, en junio del 2018
+	-Una Cantidad retenida de 1 unidades, en julio del 2018
+	-Una Cantidad retenida de 2 unidades, en agosto del 2018
+	-Una Cantidad retenida de 7 unidades, en septiembre del 2018
+	-Una Cantidad retenida de 1 unidades, en octubre  del 2018
+	-Una Cantidad retenida de 1 unidades, en noviembre  del 2018
+	-Una Cantidad retenida de 2 unidades, en diciembre  del 2018
+	-Una Cantidad retenida de 1 unidades, en enero del 2019
+	-Una Cantidad retenida de 5 unidades, en febrero del 2019
+	-Una Cantidad retenida de 9 unidades, en marzo del 2019
+	-Una Cantidad retenida de 9 unidades, en abril del 2019
+	-Una Cantidad retenida de 0 unidades, en mayo del 2019
+	-Una Cantidad retenida de 6 unidades, en junio del 2019
+	-Una Cantidad retenida de 1 unidades, en junio del 2019
+	-Una Cantidad retenida de 8 unidades, en julio del 2019
+	-Una Cantidad retenida de 5 unidades, en agosto del 2019
+	-Una Cantidad retenida de 7 unidades, en septiembre del 2019
+	-Una Cantidad retenida de 16 unidades, en octubre del 2019
+	-Una Cantidad retenida de 8 unidades, en noviembre del 2019
+	-Una Cantidad retenida de 7 unidades, en diciembre del 2019
+	-Una Cantidad retenida de 15 unidades, en enero del 2020
+	-Una Cantidad retenida de 25 unidades, en febrero del 2020
+	-Una Cantidad retenida de 38 unidades, en marzo del 2020
+	-Una Cantidad retenida de 2 unidades, en abril del 2020
+	-Una Cantidad retenida de 5 unidades, en mayo del 2020
+	-Una Cantidad retenida de 2 unidades, en junio del 2020
+	-Una Cantidad retenida de 6 unidades, en julio del 2020
+	-Una Cantidad retenida de 2 unidades, en agosto del 2020
+	-Una Cantidad retenida de 3 unidades, en septiembre del 2020
+	-Una Cantidad retenida de 2 unidades, en octubre del 2020
+	-Una Cantidad retenida de 10 unidades, en noviembre del 2020
+	-Una Cantidad retenida de 9 unidades, en diciembre del 2020
+	-Una Cantidad retenida de 6 unidades, en enero del 2021
+	-Una Cantidad retenida de 8 unidades, en febrero del 2021
+	-Una Cantidad retenida de 21 unidades, en marzo del 2021
+	-Una Cantidad retenida de 10 unidades, en abril del 2021
+	-Una Cantidad retenida de 8 unidades, en mayo del 2021
+	-Una Cantidad retenida de 4 unidades, en junio del 2021
+	-Una Cantidad retenida de 0 unidades, en julio del 2021
+	-Una Cantidad retenida de 0 unidades, en agosto del 2021
+	-Una Cantidad retenida de 6 unidades, en septiembre del 2021
+	-Una Cantidad retenida de 7 unidades, en octubre del 2021
+	-Una Cantidad retenida de 1 unidades, en noviembre del 2021
+	-Una Cantidad retenida de 3 unidades, en diciembre del 2021
+	-Una Cantidad retenida de 0 unidades, en enero del 2022
+	-Una Cantidad retenida de 1 unidades, en febrero del 2022
+	-Una Cantidad retenida de 8 unidades, en marzo del 2022
+	-Una Cantidad retenida de 0 unidades, en abril del 2022
+	-Una Cantidad retenida de 1 unidades, en mayo del 2022
+	-Una Cantidad retenida de 1 unidades, en junio del 2022
+	-Una Cantidad retenida de 6 unidades, en julio del 2022
+	-Una Cantidad retenida de 6 unidades, en agosto del 2022
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2022
+	-Una Cantidad retenida de 3 unidades, en octubre del 2022
+	-Una Cantidad retenida de 8 unidades, en noviembre del 2022
+	-Una Cantidad retenida de 10 unidades, en diciembre del 2022
+	-Una Cantidad retenida de 1 unidades, en Enero del 2023
+	-Una Cantidad retenida de 5 unidades, en Febrero del 2023
+	-Una Cantidad retenida de 1 unidades, en Marzo del 2023
+------------------------------------------------------------
+
+El arma tipo CAPSULAS PARA FUSIL tuvo:
+	-Una Cantidad retenida de 22 unidades, en enero del 2019
+	-Una Cantidad retenida de 0 unidades, en febrero del 2019
+	-Una Cantidad retenida de 0 unidades, en octubre del 2019
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2019
+------------------------------------------------------------
+
+El arma tipo ARMA BLANCA (MACHETE) tuvo:
+	-Una Cantidad retenida de 0 unidades, en abril del 2022
+	-Una Cantidad retenida de 13 unidades, en mayo del 2022
+	-Una Cantidad retenida de 2 unidades, en junio del 2022
+	-Una Cantidad retenida de 0 unidades, en julio del 2022
+	-Una Cantidad retenida de 0 unidades, en agosto del 2022
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2022
+	-Una Cantidad retenida de 0 unidades, en octubre del 2022
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2022
+	-Una Cantidad retenida de 0 unidades, en diciembre del 2022
+	-Una Cantidad retenida de 0 unidades, en Enero del 2023
+	-Una Cantidad retenida de 0 unidades, en Febrero del 2023
+	-Una Cantidad retenida de 0 unidades, en Marzo del 2023
+------------------------------------------------------------
+
+El arma tipo CAPSULAS PARA REVOLVER tuvo:
+	-Una Cantidad retenida de 6 unidades, en enero del 2019
+	-Una Cantidad retenida de 23 unidades, en febrero del 2019
+	-Una Cantidad retenida de 0 unidades, en octubre del 2019
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2019
+	-Una Cantidad retenida de 4 unidades, en diciembre del 2019
+	-Una Cantidad retenida de 9 unidades, en enero del 2020
+	-Una Cantidad retenida de 0 unidades, en febrero del 2020
+	-Una Cantidad retenida de 0 unidades, en marzo del 2020
+	-Una Cantidad retenida de 0 unidades, en abril del 2020
+	-Una Cantidad retenida de 6 unidades, en mayo del 2020
+	-Una Cantidad retenida de 0 unidades, en junio del 2020
+	-Una Cantidad retenida de 0 unidades, en julio del 2020
+	-Una Cantidad retenida de 0 unidades, en agosto del 2020
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2020
+	-Una Cantidad retenida de 0 unidades, en octubre del 2020
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2020
+	-Una Cantidad retenida de 5 unidades, en diciembre del 2020
+	-Una Cantidad retenida de 6 unidades, en enero del 2021
+	-Una Cantidad retenida de 0 unidades, en febrero del 2021
+	-Una Cantidad retenida de 0 unidades, en marzo del 2021
+	-Una Cantidad retenida de 0 unidades, en abril del 2021
+	-Una Cantidad retenida de 0 unidades, en mayo del 2021
+	-Una Cantidad retenida de 5 unidades, en junio del 2021
+	-Una Cantidad retenida de 3 unidades, en julio del 2021
+	-Una Cantidad retenida de 0 unidades, en agosto del 2021
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2021
+	-Una Cantidad retenida de 0 unidades, en octubre del 2021
+	-Una Cantidad retenida de 2 unidades, en noviembre del 2021
+	-Una Cantidad retenida de 5 unidades, en diciembre del 2021
+	-Una Cantidad retenida de 0 unidades, en enero del 2022
+	-Una Cantidad retenida de 0 unidades, en febrero del 2022
+	-Una Cantidad retenida de 0 unidades, en marzo del 2022
+	-Una Cantidad retenida de 0 unidades, en abril del 2022
+	-Una Cantidad retenida de 0 unidades, en mayo del 2022
+	-Una Cantidad retenida de 0 unidades, en junio del 2022
+	-Una Cantidad retenida de 0 unidades, en julio del 2022
+	-Una Cantidad retenida de 6 unidades, en agosto del 2022
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2022
+	-Una Cantidad retenida de 0 unidades, en octubre del 2022
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2022
+	-Una Cantidad retenida de 0 unidades, en diciembre del 2022
+	-Una Cantidad retenida de 4 unidades, en Enero del 2023
+	-Una Cantidad retenida de 0 unidades, en Febrero del 2023
+	-Una Cantidad retenida de 0 unidades, en Marzo del 2023
+------------------------------------------------------------
+
+El arma tipo CAPSULAS DE DIF. CALIBRES tuvo:
+	-Una Cantidad retenida de 21 unidades, en julio del 2022
+	-Una Cantidad retenida de 0 unidades, en agosto del 2022
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2022
+	-Una Cantidad retenida de 0 unidades, en octubre del 2022
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2022
+	-Una Cantidad retenida de 0 unidades, en diciembre del 2022
+	-Una Cantidad retenida de 0 unidades, en Enero del 2023
+	-Una Cantidad retenida de 0 unidades, en Febrero del 2023
+	-Una Cantidad retenida de 0 unidades, en Marzo del 2023
+------------------------------------------------------------
+
+El arma tipo CARGADORES PARA PISTOLA tuvo:
+	-Una Cantidad retenida de 1 unidades, en abril del 2018
+	-Una Cantidad retenida de 35 unidades, en mayo del 2018
+	-Una Cantidad retenida de 0 unidades, en junio del 2018
+	-Una Cantidad retenida de 0 unidades, en julio del 2018
+	-Una Cantidad retenida de 0 unidades, en agosto del 2018
+	-Una Cantidad retenida de 1 unidades, en septiembre del 2018
+	-Una Cantidad retenida de 0 unidades, en octubre  del 2018
+	-Una Cantidad retenida de 0 unidades, en noviembre  del 2018
+	-Una Cantidad retenida de 0 unidades, en diciembre  del 2018
+	-Una Cantidad retenida de 0 unidades, en enero del 2019
+	-Una Cantidad retenida de 2 unidades, en febrero del 2019
+	-Una Cantidad retenida de 0 unidades, en marzo del 2019
+	-Una Cantidad retenida de 0 unidades, en abril del 2019
+	-Una Cantidad retenida de 0 unidades, en mayo del 2019
+	-Una Cantidad retenida de 2 unidades, en junio del 2019
+	-Una Cantidad retenida de 3 unidades, en julio del 2019
+	-Una Cantidad retenida de 3 unidades, en agosto del 2019
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2019
+	-Una Cantidad retenida de 2 unidades, en octubre del 2019
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2019
+	-Una Cantidad retenida de 0 unidades, en diciembre del 2019
+	-Una Cantidad retenida de 7 unidades, en enero del 2020
+	-Una Cantidad retenida de 18 unidades, en febrero del 2020
+	-Una Cantidad retenida de 8 unidades, en marzo del 2020
+	-Una Cantidad retenida de 0 unidades, en abril del 2020
+	-Una Cantidad retenida de 5 unidades, en mayo del 2020
+	-Una Cantidad retenida de 0 unidades, en junio del 2020
+	-Una Cantidad retenida de 3 unidades, en julio del 2020
+	-Una Cantidad retenida de 0 unidades, en agosto del 2020
+	-Una Cantidad retenida de 2 unidades, en septiembre del 2020
+	-Una Cantidad retenida de 1 unidades, en octubre del 2020
+	-Una Cantidad retenida de 2 unidades, en noviembre del 2020
+	-Una Cantidad retenida de 4 unidades, en diciembre del 2020
+	-Una Cantidad retenida de 3 unidades, en enero del 2021
+	-Una Cantidad retenida de 0 unidades, en febrero del 2021
+	-Una Cantidad retenida de 4 unidades, en marzo del 2021
+	-Una Cantidad retenida de 2 unidades, en abril del 2021
+	-Una Cantidad retenida de 0 unidades, en mayo del 2021
+	-Una Cantidad retenida de 1 unidades, en junio del 2021
+	-Una Cantidad retenida de 0 unidades, en julio del 2021
+	-Una Cantidad retenida de 0 unidades, en agosto del 2021
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2021
+	-Una Cantidad retenida de 1 unidades, en octubre del 2021
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2021
+	-Una Cantidad retenida de 1 unidades, en diciembre del 2021
+	-Una Cantidad retenida de 0 unidades, en enero del 2022
+	-Una Cantidad retenida de 0 unidades, en febrero del 2022
+	-Una Cantidad retenida de 7 unidades, en marzo del 2022
+	-Una Cantidad retenida de 0 unidades, en abril del 2022
+	-Una Cantidad retenida de 1 unidades, en mayo del 2022
+	-Una Cantidad retenida de 0 unidades, en junio del 2022
+	-Una Cantidad retenida de 6 unidades, en julio del 2022
+	-Una Cantidad retenida de 1 unidades, en agosto del 2022
+	-Una Cantidad retenida de 7 unidades, en septiembre del 2022
+	-Una Cantidad retenida de 0 unidades, en octubre del 2022
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2022
+	-Una Cantidad retenida de 10 unidades, en diciembre del 2022
+	-Una Cantidad retenida de 0 unidades, en Enero del 2023
+	-Una Cantidad retenida de 0 unidades, en Febrero del 2023
+	-Una Cantidad retenida de 0 unidades, en Marzo del 2023
+------------------------------------------------------------
+
+El arma tipo CAPSULAS 12 MM  (UNIDADES) tuvo:
+	-Una Cantidad retenida de 0 unidades, en abril del 2018
+	-Una Cantidad retenida de 0 unidades, en mayo del 2018
+	-Una Cantidad retenida de 0 unidades, en junio del 2018
+	-Una Cantidad retenida de 0 unidades, en julio del 2018
+	-Una Cantidad retenida de 0 unidades, en agosto del 2018
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2018
+	-Una Cantidad retenida de 0 unidades, en octubre  del 2018
+	-Una Cantidad retenida de 0 unidades, en noviembre  del 2018
+	-Una Cantidad retenida de 0 unidades, en diciembre  del 2018
+	-Una Cantidad retenida de 0 unidades, en marzo del 2019
+	-Una Cantidad retenida de 0 unidades, en abril del 2019
+	-Una Cantidad retenida de 0 unidades, en mayo del 2019
+	-Una Cantidad retenida de 0 unidades, en junio del 2019
+	-Una Cantidad retenida de 0 unidades, en julio del 2019
+	-Una Cantidad retenida de 0 unidades, en agosto del 2019
+	-Una Cantidad retenida de 4 unidades, en septiembre del 2019
+------------------------------------------------------------
+
+El arma tipo PISTOLA DE LANZAR GAS tuvo:
+	-Una Cantidad retenida de 1 unidades, en abril del 2018
+	-Una Cantidad retenida de 4 unidades, en mayo del 2018
+	-Una Cantidad retenida de 0 unidades, en junio del 2018
+	-Una Cantidad retenida de 0 unidades, en julio del 2018
+	-Una Cantidad retenida de 0 unidades, en agosto del 2018
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2018
+	-Una Cantidad retenida de 0 unidades, en octubre  del 2018
+	-Una Cantidad retenida de 0 unidades, en noviembre  del 2018
+	-Una Cantidad retenida de 0 unidades, en diciembre  del 2018
+	-Una Cantidad retenida de 0 unidades, en marzo del 2019
+	-Una Cantidad retenida de 0 unidades, en abril del 2019
+	-Una Cantidad retenida de 0 unidades, en mayo del 2019
+	-Una Cantidad retenida de 0 unidades, en junio del 2019
+	-Una Cantidad retenida de 0 unidades, en julio del 2019
+	-Una Cantidad retenida de 0 unidades, en agosto del 2019
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2019
+------------------------------------------------------------
+
+El arma tipo ARMAS BLANCAS tuvo:
+	-Una Cantidad retenida de 0 unidades, en abril del 2018
+	-Una Cantidad retenida de 1 unidades, en mayo del 2018
+	-Una Cantidad retenida de 0 unidades, en junio del 2018
+	-Una Cantidad retenida de 0 unidades, en julio del 2018
+	-Una Cantidad retenida de 0 unidades, en agosto del 2018
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2018
+	-Una Cantidad retenida de 0 unidades, en octubre  del 2018
+	-Una Cantidad retenida de 0 unidades, en noviembre  del 2018
+	-Una Cantidad retenida de 0 unidades, en diciembre  del 2018
+	-Una Cantidad retenida de 0 unidades, en enero del 2019
+	-Una Cantidad retenida de 0 unidades, en febrero del 2019
+	-Una Cantidad retenida de 0 unidades, en marzo del 2019
+	-Una Cantidad retenida de 0 unidades, en abril del 2019
+	-Una Cantidad retenida de 0 unidades, en mayo del 2019
+	-Una Cantidad retenida de 0 unidades, en junio del 2019
+	-Una Cantidad retenida de 0 unidades, en julio del 2019
+	-Una Cantidad retenida de 0 unidades, en agosto del 2019
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2019
+------------------------------------------------------------
+
+El arma tipo MOCHILA MILITAR tuvo:
+	-Una Cantidad retenida de 1 unidades, en septiembre del 2018
+------------------------------------------------------------
+
+El arma tipo CAPSULAS DE FABRICACION CACERA tuvo:
+	-Una Cantidad retenida de 5 unidades, en diciembre del 2019
+	-Una Cantidad retenida de 0 unidades, en enero del 2020
+	-Una Cantidad retenida de 0 unidades, en febrero del 2020
+	-Una Cantidad retenida de 0 unidades, en marzo del 2020
+	-Una Cantidad retenida de 0 unidades, en abril del 2020
+	-Una Cantidad retenida de 0 unidades, en mayo del 2020
+	-Una Cantidad retenida de 0 unidades, en junio del 2020
+	-Una Cantidad retenida de 0 unidades, en julio del 2020
+	-Una Cantidad retenida de 0 unidades, en agosto del 2020
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2020
+	-Una Cantidad retenida de 1 unidades, en octubre del 2020
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2020
+	-Una Cantidad retenida de 0 unidades, en diciembre del 2020
+	-Una Cantidad retenida de 0 unidades, en enero del 2021
+	-Una Cantidad retenida de 0 unidades, en febrero del 2021
+	-Una Cantidad retenida de 0 unidades, en marzo del 2021
+	-Una Cantidad retenida de 0 unidades, en abril del 2021
+	-Una Cantidad retenida de 0 unidades, en mayo del 2021
+	-Una Cantidad retenida de 0 unidades, en junio del 2021
+	-Una Cantidad retenida de 0 unidades, en julio del 2021
+	-Una Cantidad retenida de 0 unidades, en agosto del 2021
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2021
+	-Una Cantidad retenida de 0 unidades, en octubre del 2021
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2021
+	-Una Cantidad retenida de 0 unidades, en diciembre del 2021
+	-Una Cantidad retenida de 0 unidades, en enero del 2022
+	-Una Cantidad retenida de 0 unidades, en febrero del 2022
+	-Una Cantidad retenida de 0 unidades, en marzo del 2022
+	-Una Cantidad retenida de 0 unidades, en abril del 2022
+	-Una Cantidad retenida de 0 unidades, en mayo del 2022
+	-Una Cantidad retenida de 0 unidades, en junio del 2022
+	-Una Cantidad retenida de 0 unidades, en julio del 2022
+	-Una Cantidad retenida de 0 unidades, en agosto del 2022
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2022
+	-Una Cantidad retenida de 0 unidades, en octubre del 2022
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2022
+	-Una Cantidad retenida de 0 unidades, en diciembre del 2022
+	-Una Cantidad retenida de 0 unidades, en Enero del 2023
+	-Una Cantidad retenida de 0 unidades, en Febrero del 2023
+	-Una Cantidad retenida de 0 unidades, en Marzo del 2023
+------------------------------------------------------------
+
+El arma tipo PISTOLA DE LANZAR GASES LACRIMOGENO tuvo:
+	-Una Cantidad retenida de 0 unidades, en enero del 2019
+------------------------------------------------------------
+
+El arma tipo CAPSULAS PARA FUSIL M-16 tuvo:
+	-Una Cantidad retenida de 2 unidades, en diciembre del 2019
+	-Una Cantidad retenida de 0 unidades, en enero del 2020
+	-Una Cantidad retenida de 0 unidades, en febrero del 2020
+	-Una Cantidad retenida de 0 unidades, en marzo del 2020
+	-Una Cantidad retenida de 0 unidades, en abril del 2020
+	-Una Cantidad retenida de 0 unidades, en mayo del 2020
+	-Una Cantidad retenida de 0 unidades, en junio del 2020
+	-Una Cantidad retenida de 0 unidades, en julio del 2020
+	-Una Cantidad retenida de 0 unidades, en agosto del 2020
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2020
+	-Una Cantidad retenida de 0 unidades, en octubre del 2020
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2020
+	-Una Cantidad retenida de 0 unidades, en diciembre del 2020
+	-Una Cantidad retenida de 0 unidades, en enero del 2021
+	-Una Cantidad retenida de 0 unidades, en febrero del 2021
+	-Una Cantidad retenida de 0 unidades, en marzo del 2021
+	-Una Cantidad retenida de 0 unidades, en abril del 2021
+	-Una Cantidad retenida de 0 unidades, en mayo del 2021
+	-Una Cantidad retenida de 0 unidades, en junio del 2021
+	-Una Cantidad retenida de 0 unidades, en julio del 2021
+	-Una Cantidad retenida de 0 unidades, en agosto del 2021
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2021
+	-Una Cantidad retenida de 0 unidades, en octubre del 2021
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2021
+	-Una Cantidad retenida de 0 unidades, en diciembre del 2021
+	-Una Cantidad retenida de 0 unidades, en enero del 2022
+	-Una Cantidad retenida de 0 unidades, en febrero del 2022
+	-Una Cantidad retenida de 0 unidades, en marzo del 2022
+	-Una Cantidad retenida de 0 unidades, en abril del 2022
+	-Una Cantidad retenida de 0 unidades, en mayo del 2022
+	-Una Cantidad retenida de 19 unidades, en junio del 2022
+	-Una Cantidad retenida de 0 unidades, en julio del 2022
+	-Una Cantidad retenida de 0 unidades, en agosto del 2022
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2022
+	-Una Cantidad retenida de 0 unidades, en octubre del 2022
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2022
+	-Una Cantidad retenida de 0 unidades, en diciembre del 2022
+	-Una Cantidad retenida de 0 unidades, en Enero del 2023
+	-Una Cantidad retenida de 0 unidades, en Febrero del 2023
+	-Una Cantidad retenida de 0 unidades, en Marzo del 2023
+------------------------------------------------------------
+
+El arma tipo CAPSULAS 9 MM (UNIDADES) tuvo:
+	-Una Cantidad retenida de 11 unidades, en abril del 2018
+	-Una Cantidad retenida de 0 unidades, en mayo del 2018
+	-Una Cantidad retenida de 0 unidades, en junio del 2018
+	-Una Cantidad retenida de 0 unidades, en julio del 2018
+	-Una Cantidad retenida de 0 unidades, en agosto del 2018
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2018
+	-Una Cantidad retenida de 0 unidades, en octubre  del 2018
+	-Una Cantidad retenida de 0 unidades, en noviembre  del 2018
+	-Una Cantidad retenida de 11 unidades, en diciembre  del 2018
+	-Una Cantidad retenida de 5 unidades, en marzo del 2019
+	-Una Cantidad retenida de 0 unidades, en abril del 2019
+	-Una Cantidad retenida de 0 unidades, en mayo del 2019
+	-Una Cantidad retenida de 10 unidades, en junio del 2019
+	-Una Cantidad retenida de 36 unidades, en julio del 2019
+	-Una Cantidad retenida de 24 unidades, en agosto del 2019
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2019
+------------------------------------------------------------
+
+El arma tipo ESCOPETA tuvo:
+	-Una Cantidad retenida de 4 unidades, en abril del 2018
+	-Una Cantidad retenida de 0 unidades, en mayo del 2018
+	-Una Cantidad retenida de 0 unidades, en junio del 2018
+	-Una Cantidad retenida de 0 unidades, en julio del 2018
+	-Una Cantidad retenida de 1 unidades, en agosto del 2018
+	-Una Cantidad retenida de 1 unidades, en septiembre del 2018
+	-Una Cantidad retenida de 0 unidades, en octubre  del 2018
+	-Una Cantidad retenida de 0 unidades, en noviembre  del 2018
+	-Una Cantidad retenida de 0 unidades, en diciembre  del 2018
+	-Una Cantidad retenida de 0 unidades, en enero del 2019
+	-Una Cantidad retenida de 0 unidades, en febrero del 2019
+	-Una Cantidad retenida de 0 unidades, en marzo del 2019
+	-Una Cantidad retenida de 0 unidades, en abril del 2019
+	-Una Cantidad retenida de 0 unidades, en mayo del 2019
+	-Una Cantidad retenida de 0 unidades, en junio del 2019
+	-Una Cantidad retenida de 1 unidades, en julio del 2019
+	-Una Cantidad retenida de 0 unidades, en agosto del 2019
+	-Una Cantidad retenida de 1 unidades, en septiembre del 2019
+------------------------------------------------------------
+
+El arma tipo CHAG�N tuvo:
+	-Una Cantidad retenida de 0 unidades, en enero del 2019
+	-Una Cantidad retenida de 0 unidades, en febrero del 2019
+------------------------------------------------------------
+
+El arma tipo MIRAS TELESCOPICAS tuvo:
+	-Una Cantidad retenida de 2 unidades, en abril del 2018
+	-Una Cantidad retenida de 0 unidades, en mayo del 2018
+	-Una Cantidad retenida de 0 unidades, en junio del 2018
+	-Una Cantidad retenida de 0 unidades, en julio del 2018
+	-Una Cantidad retenida de 0 unidades, en agosto del 2018
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2018
+	-Una Cantidad retenida de 0 unidades, en octubre  del 2018
+	-Una Cantidad retenida de 0 unidades, en noviembre  del 2018
+	-Una Cantidad retenida de 0 unidades, en diciembre  del 2018
+	-Una Cantidad retenida de 0 unidades, en marzo del 2019
+	-Una Cantidad retenida de 0 unidades, en abril del 2019
+	-Una Cantidad retenida de 0 unidades, en mayo del 2019
+	-Una Cantidad retenida de 0 unidades, en junio del 2019
+	-Una Cantidad retenida de 0 unidades, en julio del 2019
+	-Una Cantidad retenida de 0 unidades, en agosto del 2019
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2019
+------------------------------------------------------------
+
+El arma tipo CHALECO ANTIBALAS tuvo:
+	-Una Cantidad retenida de 0 unidades, en abril del 2018
+	-Una Cantidad retenida de 0 unidades, en mayo del 2018
+	-Una Cantidad retenida de 0 unidades, en junio del 2018
+	-Una Cantidad retenida de 0 unidades, en julio del 2018
+	-Una Cantidad retenida de 0 unidades, en agosto del 2018
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2018
+	-Una Cantidad retenida de 0 unidades, en octubre  del 2018
+	-Una Cantidad retenida de 0 unidades, en noviembre  del 2018
+	-Una Cantidad retenida de 0 unidades, en diciembre  del 2018
+	-Una Cantidad retenida de 0 unidades, en marzo del 2019
+	-Una Cantidad retenida de 0 unidades, en abril del 2019
+	-Una Cantidad retenida de 0 unidades, en mayo del 2019
+	-Una Cantidad retenida de 0 unidades, en junio del 2019
+	-Una Cantidad retenida de 0 unidades, en julio del 2019
+	-Una Cantidad retenida de 0 unidades, en agosto del 2019
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2019
+------------------------------------------------------------
+
+El arma tipo CARTUCHO PARA ESCOPETAS tuvo:
+	-Una Cantidad retenida de 10 unidades, en febrero del 2020
+	-Una Cantidad retenida de 26 unidades, en marzo del 2020
+	-Una Cantidad retenida de 0 unidades, en abril del 2020
+	-Una Cantidad retenida de 0 unidades, en mayo del 2020
+	-Una Cantidad retenida de 0 unidades, en junio del 2020
+	-Una Cantidad retenida de 0 unidades, en julio del 2020
+	-Una Cantidad retenida de 0 unidades, en agosto del 2020
+	-Una Cantidad retenida de 3 unidades, en septiembre del 2020
+	-Una Cantidad retenida de 0 unidades, en octubre del 2020
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2020
+	-Una Cantidad retenida de 0 unidades, en diciembre del 2020
+	-Una Cantidad retenida de 0 unidades, en enero del 2021
+	-Una Cantidad retenida de 0 unidades, en febrero del 2021
+	-Una Cantidad retenida de 0 unidades, en marzo del 2021
+	-Una Cantidad retenida de 0 unidades, en abril del 2021
+	-Una Cantidad retenida de 0 unidades, en mayo del 2021
+	-Una Cantidad retenida de 0 unidades, en junio del 2021
+	-Una Cantidad retenida de 0 unidades, en julio del 2021
+	-Una Cantidad retenida de 0 unidades, en agosto del 2021
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2021
+	-Una Cantidad retenida de 0 unidades, en octubre del 2021
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2021
+	-Una Cantidad retenida de 0 unidades, en diciembre del 2021
+	-Una Cantidad retenida de 0 unidades, en enero del 2022
+	-Una Cantidad retenida de 0 unidades, en febrero del 2022
+	-Una Cantidad retenida de 0 unidades, en marzo del 2022
+	-Una Cantidad retenida de 0 unidades, en abril del 2022
+	-Una Cantidad retenida de 0 unidades, en mayo del 2022
+	-Una Cantidad retenida de 0 unidades, en junio del 2022
+	-Una Cantidad retenida de 13 unidades, en julio del 2022
+	-Una Cantidad retenida de 3 unidades, en agosto del 2022
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2022
+	-Una Cantidad retenida de 0 unidades, en octubre del 2022
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2022
+	-Una Cantidad retenida de 0 unidades, en diciembre del 2022
+	-Una Cantidad retenida de 0 unidades, en Enero del 2023
+	-Una Cantidad retenida de 0 unidades, en Febrero del 2023
+	-Una Cantidad retenida de 0 unidades, en Marzo del 2023
+------------------------------------------------------------
+
+El arma tipo REVOLVER tuvo:
+	-Una Cantidad retenida de 1 unidades, en abril del 2018
+	-Una Cantidad retenida de 0 unidades, en mayo del 2018
+	-Una Cantidad retenida de 0 unidades, en junio del 2018
+	-Una Cantidad retenida de 1 unidades, en julio del 2018
+	-Una Cantidad retenida de 3 unidades, en agosto del 2018
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2018
+	-Una Cantidad retenida de 0 unidades, en octubre  del 2018
+	-Una Cantidad retenida de 0 unidades, en noviembre  del 2018
+	-Una Cantidad retenida de 0 unidades, en diciembre  del 2018
+	-Una Cantidad retenida de 2 unidades, en enero del 2019
+	-Una Cantidad retenida de 2 unidades, en marzo del 2019
+	-Una Cantidad retenida de 2 unidades, en abril del 2019
+	-Una Cantidad retenida de 0 unidades, en mayo del 2019
+	-Una Cantidad retenida de 0 unidades, en junio del 2019
+	-Una Cantidad retenida de 4 unidades, en julio del 2019
+	-Una Cantidad retenida de 1 unidades, en agosto del 2019
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2019
+	-Una Cantidad retenida de 0 unidades, en octubre del 2019
+	-Una Cantidad retenida de 3 unidades, en noviembre del 2019
+	-Una Cantidad retenida de 2 unidades, en diciembre del 2019
+	-Una Cantidad retenida de 3 unidades, en enero del 2020
+	-Una Cantidad retenida de 5 unidades, en febrero del 2020
+	-Una Cantidad retenida de 5 unidades, en marzo del 2020
+	-Una Cantidad retenida de 1 unidades, en abril del 2020
+	-Una Cantidad retenida de 2 unidades, en mayo del 2020
+	-Una Cantidad retenida de 0 unidades, en junio del 2020
+	-Una Cantidad retenida de 0 unidades, en julio del 2020
+	-Una Cantidad retenida de 0 unidades, en agosto del 2020
+	-Una Cantidad retenida de 1 unidades, en septiembre del 2020
+	-Una Cantidad retenida de 1 unidades, en octubre del 2020
+	-Una Cantidad retenida de 2 unidades, en noviembre del 2020
+	-Una Cantidad retenida de 1 unidades, en diciembre del 2020
+	-Una Cantidad retenida de 3 unidades, en enero del 2021
+	-Una Cantidad retenida de 1 unidades, en febrero del 2021
+	-Una Cantidad retenida de 1 unidades, en marzo del 2021
+	-Una Cantidad retenida de 1 unidades, en abril del 2021
+	-Una Cantidad retenida de 2 unidades, en mayo del 2021
+	-Una Cantidad retenida de 4 unidades, en junio del 2021
+	-Una Cantidad retenida de 1 unidades, en julio del 2021
+	-Una Cantidad retenida de 0 unidades, en agosto del 2021
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2021
+	-Una Cantidad retenida de 0 unidades, en octubre del 2021
+	-Una Cantidad retenida de 2 unidades, en noviembre del 2021
+	-Una Cantidad retenida de 1 unidades, en diciembre del 2021
+	-Una Cantidad retenida de 0 unidades, en enero del 2022
+	-Una Cantidad retenida de 0 unidades, en febrero del 2022
+	-Una Cantidad retenida de 0 unidades, en marzo del 2022
+	-Una Cantidad retenida de 0 unidades, en abril del 2022
+	-Una Cantidad retenida de 0 unidades, en mayo del 2022
+	-Una Cantidad retenida de 0 unidades, en junio del 2022
+	-Una Cantidad retenida de 1 unidades, en julio del 2022
+	-Una Cantidad retenida de 1 unidades, en agosto del 2022
+	-Una Cantidad retenida de 7 unidades, en septiembre del 2022
+	-Una Cantidad retenida de 1 unidades, en octubre del 2022
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2022
+	-Una Cantidad retenida de 1 unidades, en diciembre del 2022
+	-Una Cantidad retenida de 0 unidades, en Enero del 2023
+	-Una Cantidad retenida de 0 unidades, en Febrero del 2023
+	-Una Cantidad retenida de 0 unidades, en Marzo del 2023
+------------------------------------------------------------
+
+El arma tipo FIFLE  DE AIRE COMPRIMIDO tuvo:
+	-Una Cantidad retenida de 2 unidades, en abril del 2018
+	-Una Cantidad retenida de 0 unidades, en mayo del 2018
+	-Una Cantidad retenida de 0 unidades, en junio del 2018
+	-Una Cantidad retenida de 0 unidades, en julio del 2018
+	-Una Cantidad retenida de 0 unidades, en agosto del 2018
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2018
+	-Una Cantidad retenida de 0 unidades, en octubre  del 2018
+	-Una Cantidad retenida de 0 unidades, en noviembre  del 2018
+	-Una Cantidad retenida de 0 unidades, en diciembre  del 2018
+	-Una Cantidad retenida de 0 unidades, en marzo del 2019
+	-Una Cantidad retenida de 1 unidades, en abril del 2019
+	-Una Cantidad retenida de 0 unidades, en mayo del 2019
+	-Una Cantidad retenida de 0 unidades, en junio del 2019
+	-Una Cantidad retenida de 0 unidades, en julio del 2019
+	-Una Cantidad retenida de 0 unidades, en agosto del 2019
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2019
+------------------------------------------------------------
+
+El arma tipo CAPSULAS  PARA AMET. USI tuvo:
+	-Una Cantidad retenida de 0 unidades, en enero del 2019
+	-Una Cantidad retenida de 0 unidades, en febrero del 2019
+------------------------------------------------------------
+
+El arma tipo RIFLE tuvo:
+	-Una Cantidad retenida de 0 unidades, en enero del 2019
+	-Una Cantidad retenida de 0 unidades, en febrero del 2019
+------------------------------------------------------------
+
+El arma tipo CHILENA tuvo:
+	-Una Cantidad retenida de 3 unidades, en enero del 2019
+	-Una Cantidad retenida de 0 unidades, en febrero del 2019
+------------------------------------------------------------
+
+El arma tipo CHILENAS tuvo:
+	-Una Cantidad retenida de 0 unidades, en abril del 2018
+	-Una Cantidad retenida de 2 unidades, en mayo del 2018
+	-Una Cantidad retenida de 0 unidades, en junio del 2018
+	-Una Cantidad retenida de 0 unidades, en julio del 2018
+	-Una Cantidad retenida de 0 unidades, en agosto del 2018
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2018
+	-Una Cantidad retenida de 1 unidades, en octubre  del 2018
+	-Una Cantidad retenida de 1 unidades, en noviembre  del 2018
+	-Una Cantidad retenida de 2 unidades, en diciembre  del 2018
+	-Una Cantidad retenida de 2 unidades, en marzo del 2019
+	-Una Cantidad retenida de 0 unidades, en abril del 2019
+	-Una Cantidad retenida de 0 unidades, en mayo del 2019
+	-Una Cantidad retenida de 5 unidades, en junio del 2019
+	-Una Cantidad retenida de 3 unidades, en julio del 2019
+	-Una Cantidad retenida de 0 unidades, en agosto del 2019
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2019
+------------------------------------------------------------
+
+El arma tipo PISTOLA DE JUGUETE tuvo:
+	-Una Cantidad retenida de 1 unidades, en febrero del 2019
+------------------------------------------------------------
+
+El arma tipo CHAGON tuvo:
+	-Una Cantidad retenida de 0 unidades, en abril del 2018
+	-Una Cantidad retenida de 0 unidades, en mayo del 2018
+	-Una Cantidad retenida de 0 unidades, en junio del 2018
+	-Una Cantidad retenida de 0 unidades, en julio del 2018
+	-Una Cantidad retenida de 0 unidades, en agosto del 2018
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2018
+	-Una Cantidad retenida de 0 unidades, en octubre  del 2018
+	-Una Cantidad retenida de 0 unidades, en noviembre  del 2018
+	-Una Cantidad retenida de 0 unidades, en diciembre  del 2018
+	-Una Cantidad retenida de 0 unidades, en marzo del 2019
+	-Una Cantidad retenida de 0 unidades, en abril del 2019
+	-Una Cantidad retenida de 0 unidades, en mayo del 2019
+	-Una Cantidad retenida de 0 unidades, en junio del 2019
+	-Una Cantidad retenida de 0 unidades, en julio del 2019
+	-Una Cantidad retenida de 0 unidades, en agosto del 2019
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2019
+	-Una Cantidad retenida de 0 unidades, en octubre del 2019
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2019
+	-Una Cantidad retenida de 0 unidades, en diciembre del 2019
+	-Una Cantidad retenida de 0 unidades, en enero del 2020
+	-Una Cantidad retenida de 0 unidades, en febrero del 2020
+	-Una Cantidad retenida de 0 unidades, en marzo del 2020
+	-Una Cantidad retenida de 0 unidades, en abril del 2020
+	-Una Cantidad retenida de 0 unidades, en mayo del 2020
+	-Una Cantidad retenida de 0 unidades, en junio del 2020
+	-Una Cantidad retenida de 0 unidades, en julio del 2020
+	-Una Cantidad retenida de 0 unidades, en agosto del 2020
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2020
+	-Una Cantidad retenida de 0 unidades, en octubre del 2020
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2020
+	-Una Cantidad retenida de 0 unidades, en diciembre del 2020
+	-Una Cantidad retenida de 0 unidades, en enero del 2021
+	-Una Cantidad retenida de 0 unidades, en febrero del 2021
+	-Una Cantidad retenida de 0 unidades, en marzo del 2021
+	-Una Cantidad retenida de 0 unidades, en abril del 2021
+	-Una Cantidad retenida de 0 unidades, en mayo del 2021
+	-Una Cantidad retenida de 0 unidades, en junio del 2021
+	-Una Cantidad retenida de 0 unidades, en julio del 2021
+	-Una Cantidad retenida de 0 unidades, en agosto del 2021
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2021
+	-Una Cantidad retenida de 0 unidades, en octubre del 2021
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2021
+	-Una Cantidad retenida de 0 unidades, en diciembre del 2021
+	-Una Cantidad retenida de 0 unidades, en enero del 2022
+	-Una Cantidad retenida de 0 unidades, en febrero del 2022
+	-Una Cantidad retenida de 0 unidades, en marzo del 2022
+	-Una Cantidad retenida de 0 unidades, en abril del 2022
+	-Una Cantidad retenida de 0 unidades, en mayo del 2022
+	-Una Cantidad retenida de 0 unidades, en junio del 2022
+	-Una Cantidad retenida de 0 unidades, en julio del 2022
+	-Una Cantidad retenida de 0 unidades, en agosto del 2022
+	-Una Cantidad retenida de 0 unidades, en septiembre del 2022
+	-Una Cantidad retenida de 0 unidades, en octubre del 2022
+	-Una Cantidad retenida de 0 unidades, en noviembre del 2022
+	-Una Cantidad retenida de 0 unidades, en diciembre del 2022
+	-Una Cantidad retenida de 0 unidades, en Enero del 2023
+	-Una Cantidad retenida de 0 unidades, en Febrero del 2023
+	-Una Cantidad retenida de 0 unidades, en Marzo del 2023
+------------------------------------------------------------
+
+El arma tipo PANTALONES MILITAR tuvo:
+	-Una Cantidad retenida de 2 unidades, en septiembre del 2018
+	-Una Cantidad retenida de 0 unidades, en enero del 2019
+	-Una Cantidad retenida de 0 unidades, en febrero del 2019
+------------------------------------------------------------
+

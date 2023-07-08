@@ -35,15 +35,46 @@ function sendMessage(){
     if(req.trim() === "") return
     textarea.val("");
     textarea[0].rows = 1;
-    
+    $.ajax({
+        url: '/message/',
+        type: 'POST',
+        data: {req},
+        success: function(d) {
+            addResult(d.data.res, true)
+            if(d.id != "0") $('.historial-list li:last').attr('id',d.id)
+        },
+        error: function(xhr, status, error) {
+            error = error === "timeout" ? ": Tiempo de espera excedido":""
+            addResult(`Ocurrió un error procesando tu consulta${error}`, true)
+        }, 
+        timeout: 20000
+    });
+
     addResult(req, false)
 }
 
+spinner = ()=>{
+    return(`<div class="loading">
+        <div class="spinner-container">
+            <div id="spinner1">
+                <div class="spinner-border" role="status"></div>
+            </div>
+        </div>
+    </div>`)
+}
 
 function addResult(m,type){
-    $(".historial-list").html( $(".historial-list").html() + addRequest(m))
-    $(".historial-list li:last").html($(".historial-list li:last").html() + addResponse("Bienvenido"))
+    if(type){$(".loading").remove()}
+
+    if(type) $(".historial-list li:last").html($(".historial-list li:last").html() + addResponse(m))
+    else $(".historial-list").html( $(".historial-list").html() + addRequest(m) + spinner())
      
+    $('#textarea-id').prop("disabled",!type)
+    $('#button-send-id').prop("disabled",!type)
+    $('#button-clear-id').prop("disabled",!type)
+
+    type? $('#textarea-id').trigger('focus') : void(0)
+    showLoading(!type)
     scrollToTop();
 }
 
@@ -71,11 +102,11 @@ function addResponse(m){
 }
 
 
-function showLoading(id,enable){
+function showLoading(enable){
     if(enable===true){
-        $(`#${id}`).removeAttr("hidden")
+        $(`.loading`).addClass("flex")
     }else{
-        $(`#${id}`).attr("hidden","")
+        $(`.loading`).removeClass("flex")
     }
 }
 function scrollToTop(){
